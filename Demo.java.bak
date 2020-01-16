@@ -1,4 +1,15 @@
-class{
+import java.utill.*;
 
+
+class{
+<<<<<<< Updated upstream
+  int v=30;
+=======
+	int Z=44;
+>>>>>>> Stashed changes
+void m1(){
+  
+  //logic
+}
 
 }
